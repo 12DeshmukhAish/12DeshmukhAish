@@ -3,18 +3,16 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aishwarya+Deshmukh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Aishwarya+Deshmukh!;" />
 </h1>
 <h3 align="center">As a passionate web developer, I specialize in creating and designing innovative solutions, with a strong focus on addressing social challenges through my projects.</h3>
 
-- 📖 I’m Currently pursuing a B.Tech in Computer Science Engineering, expecting graduati in 2025
-
-- 🌱 I’m currently learning **Java FullStack and Devops**
-
+- 📖 I’m currently pursuing a B.Tech in Computer Science Engineering, expecting to graduate in 2025
+- 🌱 I’m currently learning **Java FullStack and DevOps**
 - 📫 How to reach me **deshmukhaishwarya484@gmail.com**
 
 <div align="center">
-  <a href="mailto:deshmukhaishwarya@gmail.com">
+  <a href="mailto:deshmukhaishwarya484@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/aishwarya-deshmukh-8320b1230/" target="_blank">
@@ -25,7 +23,7 @@
   </a>
 </div>
 
-<h3 align="left">Languages and Tools : </h3>
+<h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vscode,github,angular,spring,git,docker,redux,kafka,Machine Learning" />
   <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,redis,c,java,postgres,linux,nginx,postman" />
