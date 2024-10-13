@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Deshmukh</h1>
-<h3 align="center">A passionate FullStack Developer from India and Cofounder of UnityTech Solutions</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=12deshmukhaish&label=Profile%20views&color=0e75b6&style=flat" alt="12deshmukhaish" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=12deshmukhaish" alt="12deshmukhaish" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/deshmukh15393" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/deshmukh15393?logo=twitter&style=for-the-badge" alt="https://x.com/deshmukh15393" /></a> </p>
+<h3 align="center">A passionate FullStack Developer from India </h3>
 
 - 🌱 I’m currently learning **DevOps**
-
-- 👨‍💻 All of my projects are available at [https://unity-tech.vercel.app/](https://unity-tech.vercel.app/)
 
 - 💬 Ask me about **MEARN**
 
