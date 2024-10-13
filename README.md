@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Deshmukh</h1>
-<h3 align="center">A passionate FullStack Developer from India </h3>
-<img align= "right" alt = "Coding" width= "400" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
+<h3 align="center">A passionate FullStack Developer from India</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -10,13 +9,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/deshmukh15393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/deshmukh15393" height="30" width="40" /></a>
-<a href="aishwarya-deshmukh1-8320b1230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aishwarya-deshmukh1-8320b1230/" height="30" width="40" /></a>
-<a href="deshmukhaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/deshmukhaish" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sunny_zone_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sunny_zone_21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/deshmukhaishwar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/deshmukhaishwar3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/deshmukh1_aishwarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/deshmukh1_aishwarya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aishwarya_1deshmukh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aishwarya_1deshmukh/" height="30" width="40" /></a>
+<a href="https://twitter.com/deshmukh15393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deshmukh15393" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aishwarya-deshmukh1-8320b1230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya-deshmukh1-8320b1230" height="30" width="40" /></a>
+<a href="https://kaggle.com/deshmukhaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deshmukhaish" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sunny_zone_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sunny_zone_21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deshmukhaishwar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deshmukhaishwar3" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/deshmukh1_aishwarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deshmukh1_aishwarya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aishwarya_1deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aishwarya_1deshmukh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
