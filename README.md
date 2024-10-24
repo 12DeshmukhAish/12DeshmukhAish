@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **deshmukhaishwarya484@gmail.com**
 
