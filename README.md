@@ -24,7 +24,7 @@
 ## GitHub stats
 
 
-[![@mollasiraj's Holopin board](https://holopin.me/@12deshmukhaish)]((https://www.holopin.io/@12deshmukhaish#badges))
+[![@deshmukh's Holopin board](https://holopin.me/@12deshmukhaish)](https://www.holopin.io/@12deshmukhaish)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=12deshmukhaish&show_icons=true&locale=en&layout=compact" alt="12deshmukhaish" /></p>
 
