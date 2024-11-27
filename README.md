@@ -24,7 +24,7 @@
 ## GitHub stats
 
 
-[![An image of @rupeshd's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@12deshmukhaish#badges)][holopin]
+[![An image of @rupeshd's Holopin badges, which is a link to view their full Holopin profile]((https://holopin.me/@12deshmukhaish)][holopin]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=12deshmukhaish&show_icons=true&locale=en&layout=compact" alt="12deshmukhaish" /></p>
 
